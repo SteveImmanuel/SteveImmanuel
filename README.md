@@ -6,7 +6,8 @@ I'm Steve. I like to code.
 - Tools and technologies: PyTorch, Flutter, Flask, SQL, NoSQL, Cloud Services, and so on...
 
 ## Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/SteveImmanuel?theme=light&font=Noto%20Sans)
+<a href="https://leetcode.com/SteveImmanuel/">![LeetCode Stats](https://leetcard.jacoblin.cool/SteveImmanuel?theme=light&font=Noto%20Sans)</a>
+
 
 ## Connect with Me
 - Email: iam.steve.immanuel@gmail.com
