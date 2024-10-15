@@ -10,5 +10,5 @@ I'm Steve. I like to code.
 
 
 ## Connect with Me
-- Email: iam.steve.immanuel@gmail.com
+- Email: me@steveimm.id
 - LinkedIn: <a href=https://www.linkedin.com/in/steve-imm>steve-imm</a>
